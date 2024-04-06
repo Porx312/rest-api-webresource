@@ -50,6 +50,9 @@ app.get("/:section", async (req, res) => {
     }
 });
 
-app.listen(3000, () => {
-    console.log("Server is running on port 3000");
+
+const PORT = process.env.PORT || 3000; // Usar el puerto proporcionado por el servicio de hosting o 3000 por defecto
+
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
 });
