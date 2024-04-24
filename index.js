@@ -17,22 +17,13 @@ const readData = async () => {
 
 app.use(express.json());
 
+app.use('/images', express.static('./images'))
+
+
 // Ruta para obtener un elemento por su id en una sección específica
-app.get("/:section/:id", async (req, res) => {
-  const { section, id } = req.params;
-  const data = await readData();
-  if (data) {
-    const sectionData = data[section]; // Acceder a la sección correspondiente
-    const item = sectionData.find((item) => item.id === parseInt(id)); // Buscar el elemento por id
-    if (item) {
-      res.json(item);
-    } else {
-      res.status(404).json({ message: "Item not found" });
-    }
-  } else {
-    res.status(500).json({ message: "Internal server error" });
-  }
-});
+
+
+
 
 // Ruta para obtener la sesión completa de una sección
 app.get("/:section", async (req, res) => {
