@@ -2,7 +2,7 @@
   "UIGraphics": [
     {
       "id": 1,
-      "img": "http://localhost:5000/images/1.png",
+      "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F1.PNG?alt=media&token=a72087a8-3f67-4334-bd1e-e2556d2dc300",
       "url": "https://www.sinwaver.com/",
       "name": "SVG sine waves",
       "titulo": "Export perfect sine waves as SVG for your front-end projects",
