@@ -75,7 +75,7 @@
     {
       "id": 10,
       "img": "     https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F10.png?alt=media&token=2b82f9c8-1935-49c6-85c1-9dd250acb263",
-      "url": "",
+      "url": "https://undraw.co/",
       "name": "Undraw.co",
       "titulo": "Open-source illustrations for any idea you can imagine and create",
       "category": "UI Graphics"
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F11.png?alt=media&token=3a6c964c-f0c1-4bff-b2a1-bae29c1bc2cc",
-      "url": "",
+      "url": "https://www.manypixels.co/gallery/",
       "name": "Manypixels.co",
       "titulo": "Monochromatic, Isometric high-quality illustrations",
       "category": "UI Graphics"
@@ -91,7 +91,7 @@
     {
       "id": 12,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F12.png?alt=media&token=939ca5cf-b62e-418b-bedd-a237b6e542ae",
-      "url": "",
+      "url": "https://www.openpeeps.com/",
       "name": "Open Peeps",
       "titulo": "Hand drawn illustration library",
       "category": "UI Graphics"
@@ -99,7 +99,7 @@
     {
       "id": 13,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F13.png?alt=media&token=dd4bfdcf-fe42-46ca-8d00-a14e8cb106ee",
-      "url": "",
+      "url": "https://uispace.net/",
       "name": "UI Space",
       "titulo": "Thousands of great UI freebies",
       "category": "UI Graphics"
@@ -107,7 +107,7 @@
     {
       "id": 14,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F14.png?alt=media&token=fa79e451-4eed-4645-aed4-d1ac7f9751f6",
-      "url": "",
+      "url": "http://animaticons.co/",
       "name": "Animations.co",
       "titulo": "Beautiful, customizable animated GIF icons",
       "category": "UI Graphics"
@@ -115,7 +115,7 @@
     {
       "id": 15,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F15.png?alt=media&token=1b9ccd0b-937d-45bc-9352-e4636036a632",
-      "url": "",
+      "url": "https://www.uplabs.com/",
       "name": "Uplabs",
       "titulo": "High-quality design resources (Free & Premium)",
       "category": "UI Graphics"
@@ -123,7 +123,7 @@
     {
       "id": 16,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F16.png?alt=media&token=d2d4db8f-13b1-4894-82e9-434bcdb85cf4",
-      "url": "",
+      "url": "https://www.invisionapp.com/inside-design/design-resources/",
       "name": "InvisionApp",
       "titulo": "Library of free, high-quality UI kits, icon packs, and mockups",
       "category": "UI Graphics"
@@ -131,7 +131,7 @@
     {
       "id": 17,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F17.png?alt=media&token=8a9e524f-3522-4196-bb95-f5b646b1fd12",
-      "url": "",
+      "url": "https://www.opendoodles.com/",
       "name": "Open Doodles",
       "titulo": "A Free Set of Sketchy Illustrations",
       "category": "UI Graphics"
@@ -139,7 +139,7 @@
     {
       "id": 19,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F19.png?alt=media&token=504928f7-b927-476a-b1a4-03a456777872",
-      "url": "",
+      "url": "https://blush.design/",
       "name": "Blush",
       "titulo": "Free customizable illustrations with Figma Plugin",
       "category": "UI Graphics"
@@ -147,7 +147,7 @@
     {
       "id": 20,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F20.png?alt=media&token=7317e977-b671-4625-ac0f-53caf442359c",
-      "url": "",
+      "url": "http://www.heropatterns.com/",
       "name": "Hero Patterns",
       "titulo": "A collection of repeatable SVG background patterns",
       "category": "UI Graphics"
@@ -155,7 +155,7 @@
     {
       "id": 21,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F21.png?alt=media&token=d9faac30-ed38-43f0-826e-2c50fb7a7dca",
-      "url": "",
+      "url": "https://patterns.beaubus.com/",
       "name": "BEAUBUS Patterns",
       "titulo": "A set of 150+ free SVG patterns (backgrounds)",
       "category": "UI Graphics"
@@ -163,7 +163,7 @@
     {
       "id": 22,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F22.png?alt=media&token=5aeb3fbc-39c6-4b06-8910-bb98138e86a0",
-      "url": "",
+      "url": "https://isoflat.com/",
       "name": "IsoFlat",
       "titulo": "A Free collection of Isometric SVG graphic resources",
       "category": "UI Graphics"
@@ -171,7 +171,7 @@
     {
       "id": 23,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F23.png?alt=media&token=90edaff4-5bee-436f-8000-61fdd568df8f",
-      "url": "",
+      "url": "https://iradesign.io/",
       "name": "IRA Design",
       "titulo": "An open-source gradient illustrations collection by creative tim.",
       "category": "UI Graphics"
@@ -179,7 +179,7 @@
     {
       "id": 24,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F24.png?alt=media&token=47a200a9-0030-41cd-8e09-466415dd3f6e",
-      "url": "",
+      "url": "https://www.transparenttextures.com/",
       "name": "Transparent Textures",
       "titulo": "A collection of transparent textures background patterns.",
       "category": "UI Graphics"
@@ -187,7 +187,7 @@
     {
       "id": 25,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F25.png?alt=media&token=3492b932-d27b-4ac6-bbb4-945f6c2e7b7b",
-      "url": "",
+      "url": "https://icons8.com/illustrations",
       "name": "icons8.com/illustrations",
       "titulo": "Vector illustrations to class up your project",
       "category": "UI Graphics"
@@ -195,7 +195,7 @@
     {
       "id": 26,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F26.png?alt=media&token=0255d5a9-64db-4836-9277-a5ccb25fcb71",
-      "url": "",
+      "url": "https://patternico.com/",
       "name": "Patternico",
       "titulo": "Seamless Pattern Maker",
       "category": "UI Graphics"
@@ -203,7 +203,7 @@
     {
       "id": 27,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F27.png?alt=media&token=a78fbaf7-5d19-463f-9fde-8cdde28a1b89",
-      "url": "",
+      "url": "https://www.freellustrations.com/",
       "name": "Freellustrations",
       "titulo": "Free Background Images for awesome landing Pages",
       "category": "UI Graphics"
@@ -211,7 +211,7 @@
     {
       "id": 28,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F28.png?alt=media&token=06f09b49-a0a9-4e59-b086-cbac6d10008c",
-      "url": "",
+      "url": "https://www.pixeltrue.com/illustrations",
       "name": "Pixeltrue Illustrations",
       "titulo": "Free Animated Illustrations",
       "category": "UI Graphics"
@@ -219,7 +219,7 @@
     {
       "id": 29,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F29.png?alt=media&token=23d05381-191f-4fbb-ab29-c39274ad3a3d",
-      "url": "",
+      "url": "https://www.abstractapi.com/user-avatar-api",
       "name": "Abstract User Avatar API",
       "titulo": "API to create simple yet flexible user avatars from user names or emails",
       "category": "UI Graphics"
@@ -227,7 +227,7 @@
     {
       "id": 30,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F30.png?alt=media&token=069fd613-a7ae-490d-9531-ea40391565bf",
-      "url": "",
+      "url": "https://sketchvalley.com/",
       "name": "sketchvalley",
       "titulo": "Download free PNG, SVG or AI file .",
       "category": "UI Graphics"
@@ -235,7 +235,7 @@
     {
       "id": 31,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F31.png?alt=media&token=a98f08be-a437-4c43-880e-ebe5fe40e910",
-      "url": "",
+      "url": "https://patternpad.com/",
       "name": "PatternPad",
       "titulo": "Free and unlimited unique pattern designs.",
       "category": "UI Graphics"
@@ -243,7 +243,7 @@
     {
       "id": 32,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F32.png?alt=media&token=016eda9a-b630-4a2c-8ca3-0e4cd533fc2c",
-      "url": "",
+      "url": "https://www.dimensions.com/",
       "name": "Dimensions",
       "titulo": "Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces",
       "category": "UI Graphics"
@@ -251,7 +251,7 @@
     {
       "id": 33,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F33.png?alt=media&token=b0df07cd-ed5e-4e7c-a411-21a137b86519",
-      "url": "",
+      "url": "https://freebiesbug.com/",
       "name": "Freebiesbug",
       "titulo": "Hand-picked resources for web designers and developers, constantly updated.",
       "category": "UI Graphics"
@@ -259,7 +259,7 @@
     {
       "id": 34,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F34.png?alt=media&token=2ae6c14d-27ab-4e6c-9077-b5a9069a844b",
-      "url": "",
+      "url": "https://2.flexiple.com/scale/all-illustrations",
       "name": "Flexiple",
       "titulo": "One new high-quality, open-source illustration each day.",
       "category": "UI Graphics"
@@ -267,7 +267,7 @@
     {
       "id": 35,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F35.png?alt=media&token=b3c26ca0-8ada-4707-bcab-5860b615bbf2",
-      "url": "",
+      "url": "https://cooltext.com/",
       "name": "Cool Text",
       "titulo": "Cool Text is a FREE graphics generator for web pages and anywhere else you need an impressive logo without a lot of design work",
       "category": "UI Graphics"
@@ -275,7 +275,7 @@
     {
       "id": 36,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F36.png?alt=media&token=61a57249-b996-46a9-a432-58a6c1efed76",
-      "url": "",
+      "url": "https://illustrationkit.com/",
       "name": "illustration kit",
       "titulo": "Premium open source illustrations added daily",
       "category": "UI Graphics"
@@ -283,7 +283,7 @@
     {
       "id": 37,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F37.png?alt=media&token=3778022a-07ec-4250-83af-4fe0002f4c6f",
-      "url": "",
+      "url": "https://doodad.dev/pattern-generator/",
       "name": "Doodad Pattern Generator",
       "titulo": "Create unique, seamless, royalty-free patterns.",
       "category": "UI Graphics"
@@ -291,7 +291,7 @@
     {
       "id": 38,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F38.png?alt=media&token=54502291-3182-4302-9a07-f49025aaf7d7",
-      "url": "",
+      "url": "https://pattern.monster/",
       "name": "Pattern Monster",
       "titulo": "A simple online pattern generator to create repeatable SVG patterns",
       "category": "UI Graphics"
@@ -299,7 +299,7 @@
     {
       "id": 39,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F39.png?alt=media&token=da44e1a6-6398-46b6-b29d-54090bb82787",
-      "url": "",
+      "url": "https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/",
       "name": "Exemplar",
       "titulo": "Free Avatar Library for Figma and Sketch",
       "category": "UI Graphics"
@@ -307,7 +307,7 @@
     {
       "id": 40,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F40.png?alt=media&token=3eb90c2c-19b5-4623-b65f-098eab00e6b7",
-      "url": "",
+      "url": "https://uibundle.com/",
       "name": "UIBundle",
       "titulo": "Thousands of Free Design Resources like UI Kits, Mockups, Illustrations, Icons, Fonts, 3D assets, Templates and more.",
       "category": "UI Graphics"
@@ -315,7 +315,7 @@
     {
       "id": 41,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F41.png?alt=media&token=80b369d5-e90f-4714-8caa-89ec4d6c7af4",
-      "url": "",
+      "url": "http://openby.design/",
       "name": "openby.design",
       "titulo": "Custom crafted free UI design resources, for personal and commercial projects. No attribution is required.",
       "category": "UI Graphics"
@@ -323,7 +323,7 @@
     {
       "id": 42,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F42.png?alt=media&token=11858d33-32b6-48b8-9d36-62ab41891732",
-      "url": "",
+      "url": "https://designstripe.com/catalog",
       "name": "Design Stripe",
       "titulo": "Create beautiful illustrations, no design skills needed.",
       "category": "UI Graphics"
@@ -331,7 +331,7 @@
     {
       "id": 43,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F43.png?alt=media&token=d8ab484f-f6a2-4240-83ac-b7ba8d3f2e62",
-      "url": "",
+      "url": "https://holasvg.com/",
       "name": "HOLA SVG!",
       "titulo": "An SVG playground to share SVG stuff.",
       "category": "UI Graphics"
@@ -339,7 +339,7 @@
     {
       "id": 44,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F44.png?alt=media&token=45d6c22d-b8aa-42df-9a5f-e4d7c716c8a6",
-      "url": "",
+      "url": "https://symu.co/freebies/templates-4/",
       "name": "symu.co",
       "titulo": "Free templates, UI kits, icon, PSD",
       "category": "UI Graphics"
@@ -347,7 +347,7 @@
     {
       "id": 45,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F45.png?alt=media&token=577b633b-dedc-4c74-870c-a26862e9bc56",
-      "url": "",
+      "url": "https://meshgradient.in/",
       "name": "Mesh Gradient",
       "titulo": "Generate & download beautiful mesh gradients.",
       "category": "UI Graphics"
@@ -355,7 +355,7 @@
     {
       "id": 46,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F46.png?alt=media&token=0c950796-479d-4e1b-8c1a-a732811d80d9",
-      "url": "",
+      "url": "https://alvarotrigo.com/shadow-gradients/",
       "name": "CSS Shadow Gradients",
       "titulo": "Generate CSS Gradients For Shadows.",
       "category": "UI Graphics"
@@ -363,7 +363,7 @@
     {
       "id": 47,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F47.png?alt=media&token=2a2e64f2-ab22-4862-a38f-76a05778ed87",
-      "url": "",
+      "url": "https://creatica.app/backgrounds",
       "name": "Creatica",
       "titulo": "Generate unique beautiful and unique Backgrounds and patterns.",
       "category": "UI Graphics"
@@ -371,7 +371,7 @@
     {
       "id": 48,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F48.png?alt=media&token=66c5d630-3861-45ee-ae80-25ec2839b04a",
-      "url": "",
+      "url": "https://boringavatars.com/",
       "name": "Boring Avatars",
       "titulo": "SVG random, cutely avatars collections",
       "category": "UI Graphics"
@@ -379,7 +379,7 @@
     {
       "id": 49,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F49.png?alt=media&token=36eed470-76d2-4a37-9bd1-99c93541997c",
-      "url": "",
+      "url": "https://www.figma.com/community/plugin/1159123024924461424/html.to.design",
       "name": "Html to Design",
       "titulo": "Convert any website into fully editable Figma designs",
       "category": "UI Graphics"
@@ -389,7 +389,7 @@
     {
       "id": 50,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F50.png?alt=media&token=830feb10-965c-4c3e-9dbf-f11af74dda38",
-      "url": "",
+      "url": "https://fonts.google.com/",
       "name": "Google Fonts",
       "titulo": "Library of around 1000 free licensed font families",
       "category": "Fonts"
@@ -397,7 +397,7 @@
     {
       "id": 51,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F51.png?alt=media&token=f44bd5fc-d97e-48ea-bedb-ba5c93ea68eb",
-      "url": "",
+      "url": "https://www.dafont.com/",
       "name": "DaFont",
       "titulo": "Archive of freely downloadable fonts",
       "category": "Fonts"
@@ -405,7 +405,7 @@
     {
       "id": 52,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F52.png?alt=media&token=787ecb14-4348-43ad-aded-f4981468eb53",
-      "url": "",
+      "url": "https://usemodify.com/",
       "name": "Use & Modify",
       "titulo": "Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces",
       "category": "Fonts"
@@ -413,7 +413,7 @@
     {
       "id": 53,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F53.png?alt=media&token=bd1e69e8-3ddf-4b8b-9b76-6c733d4c5937",
-      "url": "",
+      "url": "https://www.1001freefonts.com/",
       "name": "1001 Free Fonts",
       "titulo": "I think the name speaks for itself 😏",
       "category": "Fonts"
@@ -421,7 +421,7 @@
     {
       "id": 54,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F54.png?alt=media&token=bb09472d-132d-448f-9e40-bb9dd1a4f178",
-      "url": "",
+      "url": "https://www.fontsquirrel.com/",
       "name": "Font Squirrel",
       "titulo": "Font Squirrel scours the internet for high quality, legitimately free fonts",
       "category": "Fonts"
@@ -429,7 +429,7 @@
     {
       "id": 55,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F55.png?alt=media&token=33306758-b234-4dbc-b788-f46909aaea1e",
-      "url": "",
+      "url": "https://www.fontfabric.com/free-fonts/",
       "name": "Font Fabric",
       "titulo": "A digital type foundry crafting retail fonts and custom typography for various brands",
       "category": "Fonts"
@@ -437,7 +437,7 @@
     {
       "id": 57,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F57.png?alt=media&token=623a2876-55c8-4b46-80f7-953ae5722bf6",
-      "url": "",
+      "url": "https://practice.typekit.com/",
       "name": "TypeKit Practice",
       "titulo": "Learn about typography practices",
       "category": "Fonts"
@@ -445,7 +445,7 @@
     {
       "id": 58,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F58.png?alt=media&token=1eec8aa0-ec75-4e52-a7ca-0b1810572a79",
-      "url": "",
+      "url": "https://fontjoy.com/",
       "name": "Fontjoy",
       "titulo": "Generate font pairing in one click",
       "category": "Fonts"
@@ -453,7 +453,7 @@
     {
       "id": 59,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F59.png?alt=media&token=d89020d5-a52d-4f28-8b4b-3fcd42d7b444",
-      "url": "",
+      "url": "https://grtcalculator.com/",
       "name": "Golden Ratio",
       "titulo": "Golden Ratio Typography Calculator",
       "category": "Fonts"
@@ -461,7 +461,7 @@
     {
       "id": 60,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F60.png?alt=media&token=832f548c-cd35-4032-9486-ff2fbd572b02",
-      "url": "",
+      "url": "https://www.fontget.com/",
       "name": "FontGet",
       "titulo": "Has a variety of fonts available to download and sorted neatly with tags",
       "category": "Fonts"
@@ -469,7 +469,7 @@
     {
       "id": 61,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F61.png?alt=media&token=5cafbc8d-2015-4695-a6df-fcbc6b6f1d7a",
-      "url": "",
+      "url": "https://fontpair.co/",
       "name": "FontPair",
       "titulo": "Helps you pair Google Fonts together",
       "category": "Fonts"
@@ -477,7 +477,7 @@
     {
       "id": 62,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F62.png?alt=media&token=088c4cd7-c3eb-4b5e-b58d-a130a26e7be7",
-      "url": "",
+      "url": "https://www.fontspace.com/",
       "name": "Font Space",
       "titulo": "A designer-centered free font website that has quick customizable previews",
       "category": "Fonts"
@@ -485,7 +485,7 @@
     {
       "id": 63,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F63.png?alt=media&token=c46233da-941a-4226-913d-fbc46e07581c",
-      "url": "",
+      "url": "http://www.abstractfonts.com/",
       "name": "Abstract Fonts",
       "titulo": "Fonts free for personal and commercial use",
       "category": "Fonts"
@@ -493,7 +493,7 @@
     {
       "id": 64,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F64.png?alt=media&token=86b6d25a-dda6-4e9b-8cea-0e4b89f98dac",
-      "url": "",
+      "url": "https://freetypography.com/",
       "name": "Free Typography",
       "titulo": "A list of high quality fonts",
       "category": "Fonts"
@@ -501,7 +501,7 @@
     {
       "id": 65,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F65.png?alt=media&token=2a352b4a-d5a9-449f-8903-d4dd0e23989d",
-      "url": "",
+      "url": "https://github.com/cmiscm/leonsans/",
       "name": "Leon Sans",
       "titulo": "A geometric sans-serif typeface made with code",
       "category": "Fonts"
@@ -509,7 +509,7 @@
     {
       "id": 66,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F66.png?alt=media&token=13b3a140-d20b-4d95-a3fe-0bacfbce75f9",
-      "url": "",
+      "url": "https://www.lexend.com/",
       "name": "Lexend",
       "titulo": "A variable font empirically shown to significantly improve reading-proficiency",
       "category": "Fonts"
@@ -517,7 +517,7 @@
     {
       "id": 67,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F67.png?alt=media&token=b0511d6c-7a15-4e68-8320-bcd8ce1015c5",
-      "url": "",
+      "url": "https://developer.apple.com/fonts/",
       "name": "Fonts for Apple Platforms",
       "titulo": "Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps",
       "category": "Fonts"
@@ -525,7 +525,7 @@
     {
       "id": 68,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F68.png?alt=media&token=e8557e06-e3ad-42bc-863e-474c6b2bba0d",
-      "url": "",
+      "url": "https://github.com/blaisck/sfwin/",
       "name": "SFWin",
       "titulo": "San Francisco Fonts for Windows 10 and non-Apple Platform",
       "category": "Fonts"
@@ -533,7 +533,7 @@
     {
       "id": 69,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F69.png?alt=media&token=8c7ef6d7-0521-4f22-887a-184afb892e7e",
-      "url": "",
+      "url": "https://fontflipper.com/",
       "name": "Font Flipper",
       "titulo": "Preview 800+ Google Fonts on top of your own designs, without having to download the fonts",
       "category": "Fonts"
@@ -541,7 +541,7 @@
     {
       "id": 70,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F70.png?alt=media&token=bd61fb0f-bbf9-4dc0-9a9f-d8d6a8c685ab",
-      "url": "",
+      "url": "https://fontsarena.com/",
       "name": "Fonts Arena",
       "titulo": "Free curated fonts",
       "category": "Fonts"
@@ -549,7 +549,7 @@
     {
       "id": 71,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F71.png?alt=media&token=2033b88d-e4c0-47ba-a603-572344c1c3b9",
-      "url": "",
+      "url": "https://befonts.com/",
       "name": "Befonts",
       "titulo": "High quality fonts for free",
       "category": "Fonts"
@@ -557,7 +557,7 @@
     {
       "id": 72,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F72.png?alt=media&token=0dc45ffc-b2f2-4522-8341-5d37d9f0b80a",
-      "url": "",
+      "url": "https://arabicfonts.net/",
       "name": "Arabic fonts",
       "titulo": "Arabic fonts for free",
       "category": "Fonts"
@@ -565,7 +565,7 @@
     {
       "id": 73,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F73.png?alt=media&token=82e6057f-38f4-4b25-88a1-2571642d8c82",
-      "url": "",
+      "url": "https://fontdrop.info/",
       "name": "FontDrop",
       "titulo": "Simple and easy way to view the contents of font files",
       "category": "Fonts"
@@ -573,7 +573,7 @@
     {
       "id": 74,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F74.png?alt=media&token=6db64ad1-fabe-4f73-b6c7-194a49e9e523",
-      "url": "",
+      "url": "https://open-foundry.com/",
       "name": "Open Foundry",
       "titulo": "FREE platform for curated open-source typefaces",
       "category": "Fonts"
@@ -581,7 +581,7 @@
     {
       "id": 75,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F75.png?alt=media&token=8d043e95-1fda-4160-9c3e-b21a2d19f93d",
-      "url": "",
+      "url": "https://glyphter.com/",
       "name": "Glyphter",
       "titulo": "Upload your own SVGS and turn them into font files. Useful if you want a smaller library loaded",
       "category": "Fonts"
@@ -590,7 +590,7 @@
     {
       "id": 77,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F77.png?alt=media&token=203f10a6-61d1-4fdf-b9f3-755c28c18cf0",
-      "url": "",
+      "url": "https://djamshed.github.io/rough-awesome-font/dist/",
       "name": "Rough Font Awesome",
       "titulo": "When RoughJS meets Font Awesome",
       "category": "Fonts"
@@ -598,7 +598,7 @@
     {
       "id": 78,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F78.png?alt=media&token=5c7047ce-5f6a-4989-a1bc-cbe9b8df311c",
-      "url": "",
+      "url": "https://ffonts.net/",
       "name": "FFonts",
       "titulo": "Stylish fonts for free",
       "category": "Fonts"
@@ -606,7 +606,7 @@
     {
       "id": 79,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F79.png?alt=media&token=df961e82-a65e-4748-9c32-f770394c46ae",
-      "url": "",
+      "url": "https://smc.org.in/fonts/",
       "name": "Malayalam Fonts",
       "titulo": "Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC)",
       "category": "Fonts"
@@ -614,7 +614,7 @@
     {
       "id": 80,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F80.png?alt=media&token=6ca293c4-9a64-4f12-9f69-b5e1aa12a8a0",
-      "url": "",
+      "url": "https://devfonts.gafi.dev/",
       "name": "Dev Fonts",
       "titulo": "Find and use the coding fonts for free",
       "category": "Fonts"
@@ -622,7 +622,7 @@
     {
       "id": 81,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F81.png?alt=media&token=bf14d1b1-0502-42f4-a85d-917ebb4f8f7d",
-      "url": "",
+      "url": "https://fontm.com/",
       "name": "Font M",
       "titulo": "Free font you can download for material coding and design",
       "category": "Fonts"
@@ -630,7 +630,7 @@
     {
       "id": 82,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F82.png?alt=media&token=2200e216-6bef-40ef-b92b-a8666c01db53",
-      "url": "",
+      "url": "https://www.wfonts.com/",
       "name": "W Fonts",
       "titulo": "Download Free fonts",
       "category": "Fonts"
@@ -638,7 +638,7 @@
     {
       "id": 83,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F83.png?alt=media&token=4d441839-bc3f-445c-b23c-d2743ed6a297",
-      "url": "",
+      "url": "https://modern-fluid-typography.vercel.app/",
       "name": "Modern fluid typography editor",
       "titulo": "Fluid typography is a modern way of approaching responsive typography.",
       "category": "Fonts"
@@ -646,7 +646,7 @@
     {
       "id": 84,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F84.png?alt=media&token=0c372907-84a9-4a2b-8f1d-de3c615071b5",
-      "url": "",
+      "url": "https://www.urbanfonts.com/",
       "name": "UrbanFonts",
       "titulo": "A collection of over 8000 free fonts and dingbats",
       "category": "Fonts"
@@ -654,7 +654,7 @@
     {
       "id": 85,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F85.png?alt=media&token=9d99b5d2-8623-420c-b7e8-11d7f74b0216",
-      "url": "",
+      "url": "https://typespiration.com/",
       "name": "Typespiration",
       "titulo": "Inspirational font combinations and color palettes",
       "category": "Fonts"
@@ -662,7 +662,7 @@
     {
       "id": 86,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F86.png?alt=media&token=ec299500-b6be-463e-91d4-f12e1ff43e99",
-      "url": "",
+      "url": "https://fontsource.org/",
       "name": "Fontsource",
       "titulo": "Self-host Open Source fonts in neatly bundled NPM packages.",
       "category": "Fonts"
@@ -670,7 +670,7 @@
     {
       "id": 87,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F87.png?alt=media&token=3c1c14de-30c8-42cb-ae5a-9de33b14e3d9",
-      "url": "",
+      "url": "https://www.fontbolt.com/",
       "name": "FontBolt",
       "titulo": "Discover and generate your favorite fonts from pop culture.",
       "category": "Fonts"
@@ -678,7 +678,7 @@
     {
       "id": 88,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F88.png?alt=media&token=9bc3cdf3-94a7-43a2-8c58-e7d22d9f3006",
-      "url": "",
+      "url": "https://www.fontshare.com/",
       "name": "Fontshare",
       "titulo": "Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all.",
       "category": "Fonts"
@@ -688,7 +688,7 @@
     {
       "id": 89,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F89.png?alt=media&token=7c8f528a-c763-470a-9850-a1abe3daf979",
-      "url": "",
+      "url": "http://khroma.co/",
       "name": "Khroma",
       "titulo": "Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.",
       "category": "Colors"
@@ -696,7 +696,7 @@
     {
       "id": 90,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F90.png?alt=media&token=58e34d1d-3592-4d44-bfe9-d6cbba3487a2",
-      "url": "",
+      "url": "https://whocanuse.com/",
       "name": "whocanuse",
       "titulo": "A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.",
       "category": "Colors"
@@ -704,7 +704,7 @@
     {
       "id": 91,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F91.png?alt=media&token=1077cf48-9af1-4bf7-8de3-cdf56baacd13",
-      "url": "",
+      "url": "https://colorable.jxnblk.com/",
       "name": "Colorable",
       "titulo": "Color combination contrast tester",
       "category": "Colors"
@@ -713,7 +713,7 @@
     {
       "id": 93,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F93.png?alt=media&token=1c9b9dfb-851e-4561-a791-bbef8fde3542",
-      "url": "",
+      "url": "https://saruwakakun.com/en/color-ideas",
       "name": "Saruwakakun",
       "titulo": "The stunning color scheme for website & App Designs with previews",
       "category": "Colors"
@@ -721,7 +721,7 @@
     {
       "id": 94,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F94.png?alt=media&token=4995c688-79c5-4909-8ec7-064d101f16f7",
-      "url": "",
+      "url": "https://paletton.com/",
       "name": "Paletton",
       "titulo": "Paletton.com is a designer color tool designed for creating color combinations that work together well.",
       "category": "Colors"
@@ -729,7 +729,7 @@
     {
       "id": 95,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F95.png?alt=media&token=8a527dcf-92b6-480d-b340-f145df29669a",
-      "url": "",
+      "url": "https://www.colorzilla.com/",
       "name": "Colorzilla",
       "titulo": "A powerful online Photoshop-like CSS gradient editor",
       "category": "Colors"
@@ -737,7 +737,7 @@
     {
       "id": 96,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F96.png?alt=media&token=1a19db0b-294f-4ce8-bb48-44206480c1fe",
-      "url": "",
+      "url": "https://www.cssgradienteditor.com/",
       "name": "CSS Gradient Editor",
       "titulo": "You may only need this tool for creating CSS gradient backgrounds and patterns.",
       "category": "Colors"
@@ -745,7 +745,7 @@
     {
       "id": 97,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F97.png?alt=media&token=adfb8e72-a0b8-49f6-aa1f-57766cae2854",
-      "url": "",
+      "url": "https://image-color.com/",
       "name": "Image Color Picker",
       "titulo": "Image color picker and palette generator",
       "category": "Colors"
@@ -753,7 +753,7 @@
     {
       "id": 98,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F98.png?alt=media&token=b69b39b9-22db-4978-a7b0-be59f8cd171c",
-      "url": "https://trycolors.com/",
+      "url": "https://combinecolors.com/",
       "name": "CombineCOLORS",
       "titulo": "Color mixing tool",
       "category": "Colors"
@@ -761,7 +761,7 @@
     {
       "id": 99,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F99.png?alt=media&token=c9c41418-dbfd-4a13-89bc-284b1db4a68a",
-      "url": "",
+      "url": "https://www.colourlovers.com/palettes",
       "name": "Color Lovers",
       "titulo": "It will show the color schemes which are popular in the outside world.",
       "category": "Colors"
@@ -769,7 +769,7 @@
     {
       "id": 100,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F100.png?alt=media&token=ef36f7fc-c92d-4b91-9686-ea514e221010",
-      "url": "",
+      "url": "https://www.htmlcsscolor.com/",
       "name": "HTML CSS Color",
       "titulo": "Free online Color (USA) or Colour (British) tools: information, gradient generator, color wheels etc.",
       "category": "Colors"
@@ -777,7 +777,7 @@
     {
       "id": 101,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F101.png?alt=media&token=9545af84-5c52-418c-81dd-56403ae1ca0d",
-      "url": "",
+      "url": "https://hexcolorcodes.org/",
       "name": "HEX Color Codes",
       "titulo": "It gets HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names.",
       "category": "Colors"
@@ -785,7 +785,7 @@
     {
       "id": 102,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F102.png?alt=media&token=5d9f850c-5407-4026-9f55-fbbd9f763b21",
-      "url": "",
+      "url": "https://webkul.github.io/coolhue/",
       "name": "CoolHue 2.0",
       "titulo": "A free tool that shows different gradient examples in CSS and PNG format",
       "category": "Colors"
@@ -793,7 +793,7 @@
     {
       "id": 103,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F103.png?alt=media&token=b2cd3209-f959-4475-9327-f464ca869217",
-      "url": "",
+      "url": "https://colors.lol/",
       "name": "Colors.lol",
       "titulo": "Interesting color palettes generated by a Twitter bot, there are hex codes and descriptive names for each color.",
       "category": "Colors"
@@ -801,7 +801,7 @@
     {
       "id": 104,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F104.png?alt=media&token=45790e26-aae3-47db-b2ed-5c3e93188346",
-      "url": "",
+      "url": "https://colors.dopely.top/",
       "name": "colors.dopely",
       "titulo": "Super-fast and simple color palette generator, palettes can be saved and shared in seconds.",
       "category": "Colors"
@@ -810,7 +810,7 @@
     {
       "id": 106,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F106.png?alt=media&token=b107702a-a531-468b-9f69-fb66fd41f1d3",
-      "url": "",
+      "url": "https://www.color-hex.com/",
       "name": "Color Hex",
       "titulo": "Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK) and generates a simple css code for the selected color.",
       "category": "Colors"
@@ -818,7 +818,7 @@
     {
       "id": 107,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F107.png?alt=media&token=98f5deb3-6e65-4d90-977e-2bcff1e92b86",
-      "url": "",
+      "url": "https://farbvelo.elastiq.ch/",
       "name": "FarbVelo",
       "titulo": "A random color palette generator",
       "category": "Colors"
@@ -827,7 +827,7 @@
     {
       "id": 110,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F110.png?alt=media&token=5bc11486-802b-428c-a94b-157ecdc688e4",
-      "url": "",
+      "url": "https://lospec.com/palette-list",
       "name": "Lospec Palette List",
       "titulo": "The Lospec Palette List is a database of palettes for pixel art.",
       "category": "Colors"
@@ -835,7 +835,7 @@
     {
       "id": 111,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F111.png?alt=media&token=111b76b4-d5b8-45bd-9a38-8d40008cbabf",
-      "url": "",
+      "url": "https://palettte.app/",
       "name": "Palettte App",
       "titulo": "Build smooth color schemes that flow from one color to another.",
       "category": "Colors"
@@ -843,7 +843,7 @@
     {
       "id": 112,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F112.png?alt=media&token=0fa3fb71-2026-420f-8bfa-4917db43c601",
-      "url": "",
+      "url": "https://www.eggradients.com/",
       "name": "Eggradients",
       "titulo": "Gradient Background Colors with eggs.",
       "category": "Colors"
@@ -851,7 +851,7 @@
     {
       "id": 113,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F113.png?alt=media&token=9837fca6-fdaf-42f7-b0f3-8ac22554ce41",
-      "url": "",
+      "url": "https://www.gradientos.app/",
       "name": "Gradientos",
       "titulo": "Find and test gradients easily.",
       "category": "Colors"
@@ -859,7 +859,7 @@
     {
       "id": 114,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F114.png?alt=media&token=84ff317c-97f4-4e08-bcea-5d6da8d83a23",
-      "url": "",
+      "url": "https://encycolorpedia.com/",
       "name": "Encycolorpedia",
       "titulo": "Website for referencing web colors. Color knowledge, Web colors, Hex color codes.",
       "category": "Colors"
@@ -867,7 +867,7 @@
     {
       "id": 115,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F115.png?alt=media&token=73bb1c14-e07a-4649-981c-54245df3a438",
-      "url": "",
+      "url": "https://croma.app/",
       "name": "Croma",
       "titulo": "A website for pick colors quickly from image or manually. It's color picker is easier to use.",
       "category": "Colors"
@@ -875,7 +875,7 @@
     {
       "id": 116,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F116.png?alt=media&token=443abd16-64fe-40a9-9f5c-705db0a8b511",
-      "url": "",
+      "url": "https://colordesigner.io/gradient-generator",
       "name": "Color Designer",
       "titulo": "A gradient generetor from one color.",
       "category": "Colors"
@@ -883,7 +883,7 @@
     {
       "id": 117,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F117.png?alt=media&token=8c052a43-bb82-4ee5-8e96-44fb342011c6",
-      "url": "",
+      "url": "https://duotone.shapefactory.co/",
       "name": "Duotone",
       "titulo": "Find beautiful free duotone images to use in any project, or make custom duotone images by uploading your own image and applying a duotone effect in seconds.",
       "category": "Colors"
@@ -891,7 +891,7 @@
     {
       "id": 118,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F118.png?alt=media&token=6fd07aef-3f22-403d-9d11-bae003a0f474",
-      "url": "",
+      "url": "https://coolbackgrounds.io/",
       "name": "coolbackgrounds generator",
       "titulo": "Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites.",
       "category": "Colors"
@@ -899,7 +899,7 @@
     {
       "id": 119,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F119.png?alt=media&token=a07b5961-7b55-4c62-ae89-47b29ccf4d86",
-      "url": "",
+      "url": "https://mdigi.tools/color-shades/",
       "name": "Color Shades Generator",
       "titulo": "We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site",
       "category": "Colors"
@@ -911,7 +911,7 @@
       "id": 121,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F121.png?alt=media&token=1f4521f7-2e1b-4917-b4b2-77a0aeb3f206",
-      "url": "",
+      "url": "https://circumicons.com/",
       "name": "Circum Icons",
       "titulo": "Consistant open source icons as SVG for React, Vue and Svelte."
     },
@@ -919,7 +919,7 @@
       "id": 122,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F122.png?alt=media&token=24ddc7f4-eb8d-4c0c-943e-c4488c4f99eb",
-      "url": "",
+      "url": "https://uxwing.com/",
       "name": "UXWing",
       "titulo": "Well Optimized, Free icons for commercial use."
     },
@@ -927,7 +927,7 @@
       "id": 123,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F123.png?alt=media&token=16b5dcfc-6a55-4c6b-a73b-2babddd2d059",
-      "url": "",
+      "url": "https://shapedfonts.com/iconclub/",
       "name": "Shapedfonts Iconclub",
       "titulo": "8000+ free icons."
     },
@@ -935,7 +935,7 @@
       "id": 124,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F124.png?alt=media&token=dcafd91f-d3c2-44b1-a6d6-b9d6ccd1fd5a",
-      "url": "",
+      "url": "https://feathericons.com/",
       "name": "Feather Icons",
       "titulo": "Beautiful, customizable open source icons."
     },
@@ -943,7 +943,7 @@
       "id": 125,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F125.png?alt=media&token=b2bea4db-b85b-4bd8-b19c-a3fcc9807f4c",
-      "url": "",
+      "url": "https://tabler-icons.io/",
       "name": "Tabler Icons",
       "titulo": "3500+ highly customizable open source SVG icons with React, Preact, Vue, Svelte and SolidJS support."
     },
@@ -951,7 +951,7 @@
       "id": 126,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F126.png?alt=media&token=a50f6b16-bc32-4d47-aea5-5c6193969278",
-      "url": "",
+      "url": "https://www.xicons.org/#/",
       "name": "Xicons",
       "titulo": "SVG Vue/React components integrated from fluentui-system-icons, ionicons, etc. (Vue3, Vue2, React, SVG)."
     },
@@ -959,7 +959,7 @@
       "id": 127,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F127.png?alt=media&token=f0ffea7e-1c40-4f80-9a3f-97732b149717",
-      "url": "",
+      "url": "https://iconoir.com/",
       "name": "Iconoir",
       "titulo": "Free library of 900+ open source icons."
     },
@@ -967,7 +967,7 @@
       "id": 128,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F128.png?alt=media&token=4689be2b-6115-4832-bf9d-257dc322ec36",
-      "url": "",
+      "url": "https://simpleicons.org/",
       "name": "Simple Icons",
       "titulo": "1307 Free SVG icons for popular brands."
     },
@@ -975,7 +975,7 @@
       "id": 129,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F129.png?alt=media&token=5aa837dd-730c-4fea-a316-9a93474b386c",
-      "url": "",
+      "url": "https://linearicons.com/free",
       "name": "Linear Icons",
       "titulo": "1000+ Ultra crisp vector icons."
     },
@@ -983,7 +983,7 @@
       "id": 130,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F130.png?alt=media&token=472676a1-8185-4bc1-b25a-e86d3b569399",
-      "url": "",
+      "url": "https://icons8.com/",
       "name": "Icons8",
       "titulo": "Free icons, photos, vectors and tools."
     },
@@ -991,7 +991,7 @@
       "id": 131,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F131.png?alt=media&token=2bb0f2cf-452e-45d0-9462-982dd3660706",
-      "url": "",
+      "url": "https://www.flaticon.com/",
       "name": "Flat Icon",
       "titulo": "The largest database of free icons in .png, SVG, EPS, PSD and BASE 64 formats."
     },
@@ -999,7 +999,7 @@
       "id": 132,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F132.png?alt=media&token=d74f6eea-570a-46dd-9637-6ef1d800a1f3",
-      "url": "",
+      "url": "https://thenounproject.com/",
       "name": "The Noun Project",
       "titulo": "Over 2 Million curated icons, created by a global community."
     },
@@ -1007,7 +1007,7 @@
       "id": 133,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F133.png?alt=media&token=8f7c352d-b0e7-4e85-a6a6-67b24403ca60",
-      "url": "",
+      "url": "https://iconscout.com/",
       "name": "Iconscout",
       "titulo": "Free Download Icons illustrations stock photos at one place."
     },
@@ -1015,7 +1015,7 @@
       "id": 134,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F134.png?alt=media&token=d8ff4637-ca60-4533-b375-eee3ad8e6e01",
-      "url": "",
+      "url": "https://iconsear.ch/search.html",
       "name": "IconSear.ch",
       "titulo": "Search engine with over 50,000 SVG icons indexed."
     },
@@ -1023,7 +1023,7 @@
       "id": 135,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F135.png?alt=media&token=2201a1ba-7b74-40c4-9817-f40bb796b743",
-      "url": "",
+      "url": "https://nucleoapp.com/",
       "name": "Nucleo App",
       "titulo": "Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid)"
     },
@@ -1031,7 +1031,7 @@
       "id": 136,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F136.png?alt=media&token=f37aefd9-8891-4743-bbb2-ffda63b1ae82",
-      "url": "",
+      "url": "https://icon-icons.com/",
       "name": "Icon-icons.com",
       "titulo": "Free Icons .png, ICO, ICNS and Vector file SVG."
     },
@@ -1039,7 +1039,7 @@
       "id": 137,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F137.png?alt=media&token=9e9f2fe8-3b1a-4f0e-ab2a-2bfd05fda3d0",
-      "url": "",
+      "url": "https://icons.getbootstrap.com/",
       "name": "Bootstrap Icons",
       "titulo": "Free Icons built for Bootstrap but they'll work in any project."
     },
@@ -1047,7 +1047,7 @@
       "id": 138,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F138.png?alt=media&token=459e0bf8-ab6f-4b14-9e6e-c3e81a0ec159",
-      "url": "",
+      "url": "https://remixicon.com/",
       "name": "Remix Icon",
       "titulo": "Simply Delightful Icon System."
     },
@@ -1055,7 +1055,7 @@
       "id": 139,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F139.png?alt=media&token=d3e2798a-90ab-4826-a209-bbe55cccb788",
-      "url": "",
+      "url": "https://iconmonstr.com/",
       "name": "Iconmonstr",
       "titulo": "Discover 4496+ free icons in 313 collections."
     },
@@ -1063,7 +1063,7 @@
       "id": 140,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F140.png?alt=media&token=5637747e-4664-48c6-bc4b-0f5d1130eead",
-      "url": "",
+      "url": "https://webkul.github.io/vivid/",
       "name": "Vivid.js",
       "titulo": "Ready to use Free and Open Source SVG Icons Pack JavaScript Library."
     },
@@ -1071,7 +1071,7 @@
       "id": 141,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F141.png?alt=media&token=a1dc3a36-6ff1-4387-b576-05ad04cfb3d8",
-      "url": "",
+      "url": "https://www.iconfinder.com/",
       "name": "Iconfinder",
       "titulo": "Free and premium vector icons in SVG, .png, CSH and AI format."
     },
@@ -1079,7 +1079,7 @@
       "id": 142,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F142.png?alt=media&token=1d924eb3-3c00-4d14-b547-991c2287b2fe",
-      "url": "",
+      "url": "https://lordicon.com/icons#free",
       "name": "Lordicon",
       "titulo": "50 free animated interactive icons."
     },
@@ -1087,7 +1087,7 @@
       "id": 143,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F143.png?alt=media&token=129eed25-299d-4343-9b25-1b79e6492457",
-      "url": "",
+      "url": "https://useanimations.com/",
       "name": "UseAnimations",
       "titulo": "Free Animated Icons in SVG and Json Format(for lottie)."
     },
@@ -1095,7 +1095,7 @@
       "id": 144,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F144.png?alt=media&token=be9ac3b0-71d1-49ab-a749-3e0ee2250757",
-      "url": "",
+      "url": "https://www.iconbros.com/",
       "name": "css.gg",
       "titulo": "700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API."
     },
@@ -1104,7 +1104,7 @@
       "id": 146,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F146.png?alt=media&token=5e4390d0-999a-4800-b2c2-230a60207e62",
-      "url": "",
+      "url": "https://materialdesignicons.com/",
       "name": "Material Design Icons",
       "titulo": "An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project."
     },
@@ -1112,7 +1112,7 @@
       "id": 147,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F147.png?alt=media&token=b6d20910-7b68-4524-8d4c-6a3385eac6fc",
-      "url": "",
+      "url": "https://heroicons.dev/",
       "name": "Heroicons",
       "titulo": "Free, open source icons from the creators of Tailwind CSS."
     },
@@ -1120,7 +1120,7 @@
       "id": 148,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F148.png?alt=media&token=07e4edde-50df-4fac-a6ab-9565ae9e1b2c",
-      "url": "",
+      "url": "https://www.zondicons.com/icons.html",
       "name": "Zondicons",
       "titulo": "A set of free premium SVG icons for you to use on your digital products."
     },
@@ -1128,7 +1128,7 @@
       "id": 149,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F149.png?alt=media&token=c0304528-99cd-42b9-8620-d74ac41d6e4f",
-      "url": "",
+      "url": "http://endlessicons.com/",
       "name": "Endless Icons",
       "titulo": "A website offering a number of free icons. Icons are tagged and also compressed into kits."
     },
@@ -1136,7 +1136,7 @@
       "id": 150,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F150.png?alt=media&token=d5744494-c128-4868-a913-42918b233a80",
-      "url": "",
+      "url": "https://icomoon.io/app/",
       "name": "Icomoon",
       "titulo": "Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons."
     },
@@ -1144,7 +1144,7 @@
       "id": 151,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F151.png?alt=media&token=a7891367-f646-48cd-91cc-b457cf317c41",
-      "url": "",
+      "url": "https://akveo.github.io/eva-icons/#/",
       "name": "Eva Icons",
       "titulo": "Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items."
     },
@@ -1152,7 +1152,7 @@
       "id": 152,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F152.png?alt=media&token=ad02b4cb-9c19-4689-9175-6cd51135732c",
-      "url": "",
+      "url": "http://cryptoicons.co/",
       "name": "Cryptoicons",
       "titulo": "A set of 430 crypto and fiat currency icons. Completely free."
     },
@@ -1160,7 +1160,7 @@
       "id": 153,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F153.png?alt=media&token=ea0be391-91b5-49b4-bbe4-7efe6339bdcb",
-      "url": "",
+      "url": "https://ikonate.com/",
       "name": "Ikonate",
       "titulo": "Fully customizable & accessible vector icons."
     },
@@ -1168,7 +1168,7 @@
       "id": 154,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F154.png?alt=media&token=f4ae5379-bf8d-442d-bc36-8b8cfd2eeb48",
-      "url": "",
+      "url": "https://appicon.co/",
       "name": "appicon",
       "titulo": "Quickly generate app icons in different sizes for your IOS, macOS and Android projects."
     },
@@ -1176,7 +1176,7 @@
       "id": 155,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F155.png?alt=media&token=27efe60f-29e6-4467-9f5d-811938172dfd",
-      "url": "",
+      "url": "https://lineicons.com/",
       "name": "LineIcons",
       "titulo": "2000+ Essential Line Icons for Designers and Developers."
     },
@@ -1184,7 +1184,7 @@
       "id": 156,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F156.png?alt=media&token=5e3e59f2-92ab-4fbb-b5e2-2cf20669b1b4",
-      "url": "",
+      "url": "https://www.figma.com/resources/assets/evericons-for-figma/",
       "name": "Evericons",
       "titulo": "Evericons is a big pack of over 460 free icons designed by Aleksey Popov."
     },
@@ -1192,7 +1192,7 @@
       "id": 157,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F157.png?alt=media&token=a4dd592c-d741-48ee-8950-6a2146264d15",
-      "url": "",
+      "url": "https://www.svgrepo.com/",
       "name": "SVG Repo",
       "titulo": "Download free SVG Vectors for commercial use."
     },
@@ -1200,7 +1200,7 @@
       "id": 158,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F158.png?alt=media&token=811587e8-df2d-457d-aad0-564b24e24c22",
-      "url": "",
+      "url": "https://convertio.co/png-svg/",
       "name": "Convertio",
       "titulo": "Convert .png files to SVG online & free. (One of the services provided by it.)"
     },
@@ -1208,7 +1208,7 @@
       "id": 159,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F159.png?alt=media&token=8300b829-d2da-4a23-a249-918675fcccaf",
-      "url": "",
+      "url": "https://cssicon.space/",
       "name": "CSS ICON",
       "titulo": "Icon set made with pure css code, no dependencies, 'grab and go' icons."
     },
@@ -1216,7 +1216,7 @@
       "id": 160,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F160.png?alt=media&token=5750326c-cbb6-42f6-b4c0-37cf577e1342",
-      "url": "",
+      "url": "https://iconify.design/",
       "name": "Unified icons",
       "titulo": "Thousands of icons, one unified framework. One library, over 40,000 vector icons."
     },
@@ -1224,7 +1224,7 @@
       "id": 161,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F161.png?alt=media&token=8fac3ab7-2e84-4e8d-8d51-70847bb927c9",
-      "url": "",
+      "url": "https://systemuicons.com/",
       "name": "System UIcons",
       "titulo": "220+ icons in a growing collection."
     },
@@ -1232,7 +1232,7 @@
       "id": 162,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F162.png?alt=media&token=7409dff8-24a4-40c1-866b-c9d0db577362",
-      "url": "",
+      "url": "https://github.com/bytedance/IconPark",
       "name": "IconPark",
       "titulo": "Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons."
     },
@@ -1240,7 +1240,7 @@
       "id": 163,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F163.png?alt=media&token=b81172e2-4e9b-4468-a529-6d6a1c856f23",
-      "url": "",
+      "url": "https://icons.modulz.app/",
       "name": "Radix Icons",
       "titulo": "A crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component,SVG and more."
     },
@@ -1249,7 +1249,7 @@
       "id": 165,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F165.png?alt=media&token=20b54afb-7336-4b6e-97c5-995ee623ad90",
-      "url": "",
+      "url": "https://ionicons.com/",
       "name": "Ionicons",
       "titulo": "Beautifully crafted open source icons for use in web, iOS, Android, and desktop apps."
     },
@@ -1257,7 +1257,7 @@
       "id": 166,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F166.png?alt=media&token=b40d7546-4bf9-45a2-a824-fb2b397c5a44",
-      "url": "",
+      "url": "https://phosphoricons.com/",
       "name": "Phosphor Icons",
       "titulo": "Phosphor is a flexible icon family for interfaces, diagrams, presentations."
     },
@@ -1265,7 +1265,7 @@
       "id": 167,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F167.png?alt=media&token=20216b93-525a-49a3-8b1f-6b4c37c2f31e",
-      "url": "",
+      "url": "https://teenyicons.com/",
       "name": "Teeny Icons",
       "titulo": "TeenyIcons is a set icons in SVG format easy to use in html."
     },
@@ -1273,7 +1273,7 @@
       "id": 168,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F168.png?alt=media&token=2c265809-9e99-42a7-937f-58299bbf17e1",
-      "url": "",
+      "url": "https://lucide.netlify.app/",
       "name": "Lucide",
       "titulo": "Lucide is an open-source icon library, a fork of Feather Icons."
     },
@@ -1281,7 +1281,7 @@
       "id": 169,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F169.png?alt=media&token=d5d8ea29-6334-473f-88c2-999e1d7a3df1",
-      "url": "",
+      "url": "https://icones.js.org/",
       "name": "Icones",
       "titulo": "Icon Explorer with Instant searching, powered by Iconify."
     },
@@ -1289,7 +1289,7 @@
       "id": 170,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F170.png?alt=media&token=efc0182d-6e8b-4561-8a38-1e6a8a75f194",
-      "url": "",
+      "url": "https://shittyicons.com/",
       "name": "Shitty Icons",
       "titulo": "Collection of Free icons."
     },
@@ -1297,7 +1297,7 @@
       "id": 171,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F171.png?alt=media&token=147596ff-f285-47e2-81ed-55b6d625ac23",
-      "url": "",
+      "url": "https://www.iconspedia.com/",
       "name": "Iconspedia",
       "titulo": "Iconspedia is a website that contains a large collection of high quality free icons."
     },
@@ -1305,7 +1305,7 @@
       "id": 172,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F172.png?alt=media&token=6297ba87-4019-4a6c-97f4-7d018eca4eba",
-      "url": "",
+      "url": "https://iconhub.io/",
       "name": "iconhub",
       "titulo": "Just practical stunning icons for everyone."
     },
@@ -1313,7 +1313,7 @@
       "id": 173,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F173.png?alt=media&token=4d583081-c0bb-4fc5-9c88-2d401cd81bf8",
-      "url": "",
+      "url": "https://3dicons.co/",
       "name": "3DICONS",
       "titulo": "Beautifully crafted open source 3D icons."
     },
@@ -1321,7 +1321,7 @@
       "id": 174,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F174.png?alt=media&token=2bbdfabd-d812-4e8b-bf7d-ae2d33196ce6",
-      "url": "",
+      "url": "https://www.iconsdb.com/",
       "name": "IconsDb",
       "titulo": "Free Custom Icons."
     },
@@ -1329,7 +1329,7 @@
       "id": 175,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F175.png?alt=media&token=ed7a1c03-36c2-45b2-80d5-bc8b9ff690f1",
-      "url": "",
+      "url": "https://emojiguide.org/",
       "name": "Emoji Guide",
       "titulo": "The collection of 3300 emojis with their HTML codes for easy use."
     },
@@ -1337,7 +1337,7 @@
       "id": 176,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F176.png?alt=media&token=1fc46548-a549-4764-880b-a213f498f370",
-      "url": "",
+      "url": "https://unicornicons.com/",
       "name": "Unicorn Icons",
       "titulo": "100+ customizable playful animated icons. Available in JSON and SVG format."
     },
@@ -1345,7 +1345,7 @@
       "id": 177,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F177.png?alt=media&token=f3164140-90c1-4bbd-add8-aa2500d318ae",
-      "url": "",
+      "url": "https://sargamicons.com/",
       "name": "Sargam Icons",
       "titulo": "A collection of 275+ open-source icons available for Figma, SVGs, and React."
     },
@@ -1353,7 +1353,7 @@
       "id": 178,
       "category": "Icons",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F178.png?alt=media&token=c5a5590f-1949-4215-9a42-457e39830813",
-      "url": "",
+      "url": "https://iconbuddy.app/",
       "name": "Icon buddy",
       "titulo": "A collection of 100K+ open-source SVG icons, fully customizable for designers and developers."
     }
@@ -1364,7 +1364,7 @@
       "titulo": "LogoSear.ch",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F179.png?alt=media&token=326f9366-b0bd-4d08-ab54-4485bc1ecbeb",
-      "url": "",
+      "url": "https://logosear.ch/search.html",
       "name": "Search engine with over 200,000 SVG logos indexed"
     },
     {
@@ -1372,7 +1372,7 @@
       "titulo": "SVGPorn",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F180.png?alt=media&token=60cd1b15-ec59-45cf-a104-7ffb3d93b99b",
-      "url": "",
+      "url": "https://svgporn.com/",
       "name": "1000+ high-quality SVG logos"
     },
     {
@@ -1380,7 +1380,7 @@
       "titulo": "Payment System Logos",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F181.png?alt=media&token=2a77acc1-c74d-48ce-a9fa-431218bc8a57",
-      "url": "",
+      "url": "https://github.com/mpay24/payment-logos/",
       "name": "Logos for payment systems available in .png and svg"
     },
     {
@@ -1388,7 +1388,7 @@
       "titulo": "Browser Logos",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F182.png?alt=media&token=5d61ac87-1f9e-4be4-9e77-70477e3b3d39",
-      "url": "",
+      "url": "https://github.com/alrra/browser-logos/",
       "name": "High resolution web browser logos"
     },
     {
@@ -1396,7 +1396,7 @@
       "titulo": "VectorLogoZone",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F183.png?alt=media&token=304ffc5e-0af7-40c4-9b5b-718e99be4718",
-      "url": "",
+      "url": "https://www.vectorlogo.zone/",
       "name": "Consistently formatted SVG logos"
     },
     {
@@ -1404,7 +1404,7 @@
       "titulo": "World Vector Logo",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F184.png?alt=media&token=148c3007-635e-4673-a8fa-d5db04d14b7a",
-      "url": "",
+      "url": "https://worldvectorlogo.com/",
       "name": "Download vector logos of brands you love"
     },
     {
@@ -1412,7 +1412,7 @@
       "titulo": "Logo Maker",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F185.png?alt=media&token=b2f1647b-890e-4b51-982d-2d8627a3e635",
-      "url": "",
+      "url": "https://logomakr.com/",
       "name": "Free Logo Maker - Make your own logo"
     },
     {
@@ -1420,7 +1420,7 @@
       "titulo": "Free Logo Maker",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F186.png?alt=media&token=04c9fc50-a8c6-4347-943f-f33aac7a6da0",
-      "url": "",
+      "url": "https://www.namecheap.com/logo-maker/",
       "name": "Fast, All-in-One Logo Generator"
     },
     {
@@ -1428,7 +1428,7 @@
       "titulo": "LOGOwine",
       "category": "Logos",
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F187.png?alt=media&token=fb904bf9-2e1e-420e-8129-ee5d718c0cfa",
-      "url": "",
+      "url": "https://www.logo.wine/",
       "name": "Brand Logos Free Download in SVG Vector & PNG File Format"
     }
   ],
@@ -1436,7 +1436,7 @@
     {
       "id": 188,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F188.png?alt=media&token=2756adbf-4cb3-4ed4-a0ff-17f8a941c296",
-      "url": "",
+      "url": "https://favicon.io/",
       "name": "Favicon.io",
       "titulo": "Generate a favicon from text, from an image, or from an emoji. Download in .ico and ..png formats",
       "category": "Favicons"
@@ -1444,7 +1444,7 @@
     {
       "id": 189,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F189.png?alt=media&token=956094ea-d16d-46a4-8959-8a666e59657a",
-      "url": "",
+      "url": "https://favicomatic.com/",
       "name": "Favicomatic",
       "titulo": "Generate favicons of all the sizes and formats as well as the HTML code needed to support every possible browser or device",
       "category": "Favicons"
@@ -1452,7 +1452,7 @@
     {
       "id": 190,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F190.png?alt=media&token=7ba1df4e-a1a2-4c83-a103-5e88ed5399ec",
-      "url": "",
+      "url": "http://tools.dynamicdrive.com/favicon/",
       "name": "Favicon Generator",
       "titulo": "Generate favicon ico files for your website",
       "category": "Favicons"
@@ -1460,7 +1460,7 @@
     {
       "id": 191,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F191.png?alt=media&token=dd51656a-949d-48d1-9311-a5d1adac39a3",
-      "url": "",
+      "url": "https://realfavicongenerator.net/",
       "name": "RealFaviconGenerator",
       "titulo": "Generate icons for all platforms (Windows, iOS, Android)",
       "category": "Favicons"
@@ -1468,7 +1468,7 @@
     {
       "id": 192,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F192.png?alt=media&token=fecea6a4-0d10-44ab-84ee-139903e02779",
-      "url": "",
+      "url": "https://gauger.io/fonticon/",
       "name": "FontIcon",
       "titulo": "Generate favicons and images from Font Awesome icons",
       "category": "Favicons"
@@ -1476,7 +1476,7 @@
     {
       "id": 193,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F193.png?alt=media&token=4f9521c2-6521-4d6f-892e-f298324829c1",
-      "url": "",
+      "url": "https://www.favicon.cc/",
       "name": "Favicon.cc",
       "titulo": "Draw a favicon online and browse through a library of favicons made by other users",
       "category": "Favicons"
@@ -1484,7 +1484,7 @@
     {
       "id": 194,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F194.png?alt=media&token=043568c0-ae52-47ab-954d-d8a11b836dd4",
-      "url": "",
+      "url": "https://maskable.app/editor/",
       "name": "Maskable.app Editor",
       "titulo": "Generate maskable PWA icons based on your existing icon",
       "category": "Favicons"
@@ -1494,7 +1494,7 @@
     {
       "id": 195,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F195.png?alt=media&token=0c125ce3-292e-4b0e-a700-02a3702abead",
-      "url": "",
+      "url": "https://fontawesome.com/",
       "name": "Font Awesome",
       "titulo": "The web's most popular icon set and toolkit",
       "category": "Icon Fonts"
@@ -1502,7 +1502,7 @@
     {
       "id": 196,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F196.png?alt=media&token=80666db8-a33a-427f-95aa-918f28715647",
-      "url": "",
+      "url": "https://icons8.com/line-awesome",
       "name": "Line Awesome",
       "titulo": "Swap in replacement of Font Awesome with modern line icons",
       "category": "Icon Fonts"
@@ -1510,7 +1510,7 @@
     {
       "id": 197,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F197.png?alt=media&token=ef492282-1081-4225-9a98-cf4cd265c219",
-      "url": "",
+      "url": "https://material.io/resources/icons/",
       "name": "Material Icons",
       "titulo": "Material design icon library",
       "category": "Icon Fonts"
@@ -1518,7 +1518,7 @@
     {
       "id": 198,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F198.png?alt=media&token=998d6ac8-826d-418b-a15c-bba23d7f27dd",
-      "url": "",
+      "url": "http://ionicons.com/",
       "name": "IonIcons",
       "titulo": "Beautifully crafted open source icons from Ionic team",
       "category": "Icon Fonts"
@@ -1526,7 +1526,7 @@
     {
       "id": 199,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F199.png?alt=media&token=d298469f-86b3-4f6b-9f22-f93251cde83e",
-      "url": "",
+      "url": "https://zurb.com/playground/foundation-icon-fonts-3",
       "name": "Zurb Foundation Icons",
       "titulo": "Customizable Foundation icons",
       "category": "Icon Fonts"
@@ -1534,7 +1534,7 @@
     {
       "id": 201,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F201.png?alt=media&token=2f9bef5f-c810-4b0b-96b5-286e7bb6261e",
-      "url": "",
+      "url": "https://boxicons.com/",
       "name": "Boxicons",
       "titulo": "Boxicons is a free collection of carefully crafted open source icons",
       "category": "Icon Fonts"
@@ -1542,7 +1542,7 @@
     {
       "id": 202,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F202.png?alt=media&token=cc759c11-6e60-4445-8116-09a4d29ac0f2",
-      "url": "",
+      "url": "https://icofont.com/",
       "name": "Icofont",
       "titulo": "2100+ free icons to spice up your creative designs",
       "category": "Icon Fonts"
@@ -1558,7 +1558,7 @@
     {
       "id": 204,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F204.png?alt=media&token=dead2b7c-a87b-4704-9fdb-02459d339096",
-      "url": "",
+      "url": "http://zavoloklom.github.io/material-design-iconic-font/index.html",
       "name": "Material Design Iconic Font",
       "titulo": "Material design icon font",
       "category": "Icon Fonts"
@@ -1566,7 +1566,7 @@
     {
       "id": 205,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F205.png?alt=media&token=348f2d0c-8deb-4438-a624-35665c11ef59",
-      "url": "",
+      "url": "https://microsoft.github.io/vscode-codicons/dist/codicon.html",
       "name": "Vscode Codicons",
       "titulo": "The icon font from Visual Studio Code",
       "category": "Icon Fonts"
@@ -1574,7 +1574,7 @@
     {
       "id": 206,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F206.png?alt=media&token=6560413d-5f6c-470e-997e-589ff37ffbf1",
-      "url": "",
+      "url": "https://devicon.dev/",
       "name": "Devicon",
       "titulo": "Devicon is a set of icons representing programming languages, designing & development tools",
       "category": "Icon Fonts"
@@ -1582,7 +1582,7 @@
     {
       "id": 207,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F207.png?alt=media&token=c88b137d-e67b-4217-9791-10371be59a7c",
-      "url": "",
+      "url": "https://github.com/AlexanderPoellmann/PaymentFont",
       "name": "PaymentFont",
       "titulo": "A sleek web font for payment operators and methods. Featuring 116 icons",
       "category": "Icon Fonts"
@@ -1590,7 +1590,7 @@
     {
       "id": 208,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F208.png?alt=media&token=a7fbe8c1-51fa-459f-af7a-bd098887fe8c",
-      "url": "",
+      "url": "https://erikflowers.github.io/weather-icons/",
       "name": "Weather Icons",
       "titulo": "Weather Icons is the only icon font with 222 weather themed icons",
       "category": "Icon Fonts"
@@ -1598,7 +1598,7 @@
     {
       "id": 209,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F209.png?alt=media&token=51dbb605-ad8d-4c3b-9959-07f1788cf6d0",
-      "url": "",
+      "url": "https://themes-pixeden.com/font-demos/7-stroke/index.html",
       "name": "Stroke 7",
       "titulo": "202 thin stroke icons inspired by iOS 7",
       "category": "Icon Fonts"
@@ -1606,7 +1606,7 @@
     {
       "id": 210,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F210.png?alt=media&token=ec2b7f61-84ce-4e58-a960-a8ffa1f91cdc",
-      "url": "",
+      "url": "https://jam-icons.com/",
       "name": "Jam Icons",
       "titulo": "890+ handcrafted icons to make your designs pop",
       "category": "Icon Fonts"
@@ -1614,7 +1614,7 @@
     {
       "id": 211,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F211.png?alt=media&token=65d0f125-9b79-4dab-902a-71148fc11b11",
-      "url": "",
+      "url": "http://fontello.com/",
       "name": "Fontello",
       "titulo": "200+ web icons where you can customize the names or codes of icons.",
       "category": "Icon Fonts"
@@ -1622,7 +1622,7 @@
     {
       "id": 212,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F212.png?alt=media&token=3cce3d61-8828-4bae-9ff0-db3d73780b69",
-      "url": "",
+      "url": "https://linea.io/",
       "name": "Linea",
       "titulo": "Linea: Featuring 750+ Free Icons",
       "category": "Icon Fonts"
@@ -1630,7 +1630,7 @@
     {
       "id": 213,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F213.png?alt=media&token=6365ca32-2a8c-4b4e-ad96-1630217950a5",
-      "url": "",
+      "url": "https://iconscout.com/unicons",
       "name": "Unicons",
       "titulo": "A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native.",
       "category": "Icon Fonts"
@@ -1638,7 +1638,7 @@
     {
       "id": 214,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F214.png?alt=media&token=fcc6cedd-e52b-4c76-94f4-840b33427bd8",
-      "url": "",
+      "url": "https://mobiriseicons.com/",
       "name": "Mobirise Icons",
       "titulo": "A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons.",
       "category": "Icon Fonts"
@@ -1646,7 +1646,7 @@
     {
       "id": 215,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F215.png?alt=media&token=29b1283f-6670-4e50-b8f5-d0c74f551494",
-      "url": "",
+      "url": "https://heroicons.dev/",
       "name": "Hero Icons",
       "titulo": "Free Open Source Svg Icon Library",
       "category": "Icon Fonts"
@@ -1654,7 +1654,7 @@
     {
       "id": 216,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F216.png?alt=media&token=27672fc0-e0c0-479c-8952-eb43efa105ad",
-      "url": "",
+      "url": "https://react-icons.github.io/react-icons/",
       "name": "React Icons",
       "titulo": "An Open Source and free Svg Icon Library, it is a collection of your favorite icon libraries like Font Awesome and Material Icons to provide you with a wide range of SVG icons to choose from",
       "category": "Icon Fonts"
@@ -1665,7 +1665,7 @@
     {
       "id": 217,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F217.png?alt=media&token=214b9c49-42d4-4171-a09b-96c80f32913f",
-      "url": "",
+      "url": "https://www.pexels.com/",
       "name": "Pexels",
       "titulo": "Free stock photos shared by talented creators",
       "category": "Stock Photos"
@@ -1673,7 +1673,7 @@
     {
       "id": 218,
       "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F218.png?alt=media&token=eef3ba91-280d-41d8-917d-4b1c2e3c2f72",
-      "url": "Enlace del sitio web",
+      "url": "https://unsplash.com/",
       "name": "Unsplash",
       "titulo": "The internet’s source of freely usable images",
       "category": "Stock Photos"
@@ -1681,7 +1681,7 @@
     {
       "id": 219,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F219.png?alt=media&token=88dcd514-c98c-4806-bd0d-7798c309e42a",
-      "url": "Enlace del sitio web",
+      "url": "https://pixabay.com/",
       "name": "Pixabay",
       "titulo": "Over 1.7 million+ high-quality stock images and videos",
       "category": "Stock Photos"
@@ -1689,7 +1689,7 @@
     {
       "id": 220,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F220.png?alt=media&token=42dd64f7-7b39-4657-95ae-11e4772cc43b",
-      "url": "Enlace del sitio web",
+      "url": "https://magdeleine.co/",
       "name": "Magdeleine",
       "titulo": "Gallery & free high-resolution photo everyday",
       "category": "Stock Photos"
@@ -1697,7 +1697,7 @@
     {
       "id": 221,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F221.png?alt=media&token=51088c65-c3cf-44c8-b6cf-6dd791c3c741",
-      "url": "Enlace del sitio web",
+      "url": "https://picspree.com/",
       "name": "Picspree",
       "titulo": "Royalty free images, stock photos, illustrations, and vectors",
       "category": "Stock Photos"
@@ -1705,7 +1705,7 @@
     {
       "id": 222,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F222.png?alt=media&token=34a5986e-4267-4bb3-ac90-495e4201e559",
-      "url": "Enlace del sitio web",
+      "url": "https://burst.shopify.com/",
       "name": "Burst",
       "titulo": "Free stock photos collections",
       "category": "Stock Photos"
@@ -1713,7 +1713,7 @@
     {
       "id": 223,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F223.png?alt=media&token=11bfe6e9-f30c-4e68-b04a-8fc0c17af358",
-      "url": "Enlace del sitio web",
+      "url": "https://gratisography.com/",
       "name": "Gratisography",
       "titulo": "Free collection of free high-resolution pictures",
       "category": "Stock Photos"
@@ -1721,7 +1721,7 @@
     {
       "id": 224,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F224.png?alt=media&token=2f819fbb-e938-46a4-bf71-b1e1ee5491cf",
-      "url": "Enlace del sitio web",
+      "url": "https://www.lifeofpix.com/",
       "name": "Life of Pix",
       "titulo": "Free high-resolution photography",
       "category": "Stock Photos"
@@ -1729,7 +1729,7 @@
     {
       "id": 225,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F225.png?alt=media&token=3f608711-a59e-4f12-82b4-7a129d90473c",
-      "url": "Enlace del sitio web",
+      "url": "https://stocksnap.io/",
       "name": "Stock Snap",
       "titulo": "Hundreds of high quality photos added weekly",
       "category": "Stock Photos"
@@ -1737,7 +1737,7 @@
     {
       "id": 226,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F226.png?alt=media&token=dacd3d9e-2005-48f9-ae9e-2ca9fd4b0dc6",
-      "url": "Enlace del sitio web",
+      "url": "https://morguefile.com/",
       "name": "Morguefile",
       "titulo": "Over 350,000 free stock photos for commercial use",
       "category": "Stock Photos"
@@ -1745,7 +1745,7 @@
     {
       "id": 227,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F227.png?alt=media&token=525e4006-0191-4a39-b426-b60f88122af1",
-      "url": "Enlace del sitio web",
+      "url": "https://kaboompics.com/",
       "name": "Kaboom Pics",
       "titulo": "Stock photography and color palettes. Good for product images",
       "category": "Stock Photos"
@@ -1753,7 +1753,7 @@
     {
       "id": 228,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F228.png?alt=media&token=c801f18d-2140-4dc1-bb6c-7e7015dff0d4",
-      "url": "Enlace del sitio web",
+      "url": "https://nos.twnsnd.co/",
       "name": "New Old Stock",
       "titulo": "Stock vintage photos",
       "category": "Stock Photos"
@@ -1761,7 +1761,7 @@
     {
       "id": 229,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F229.png?alt=media&token=71e3a0c4-35c7-4784-90d0-1dfc65a29c95",
-      "url": "Enlace del sitio web",
+      "url": "https://picjumbo.com/",
       "name": "Pic Jumbo",
       "titulo": "Good collections of different types of photos",
       "category": "Stock Photos"
@@ -1770,14 +1770,14 @@
       "id": 230,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F230.png?alt=media&token=47099a7f-a63f-4c73-bf1c-dc8cf155f508",
       "url": "Enlace del sitio web",
-      "name": "Public Domain Pictures",
+      "name": "Phttps://www.publicdomainpictures.net/en/",
       "titulo": "Public domain images of all types",
       "category": "Stock Photos"
     },
     {
       "id": 231,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F231.png?alt=media&token=74105f10-61c3-4562-bee0-960b9bcf886c",
-      "url": "Enlace del sitio web",
+      "url": "https://www.chamberofcommerce.org/findaphoto/",
       "name": "Find A Photo",
       "titulo": "Searches multiple stock photo websites",
       "category": "Stock Photos"
@@ -1785,7 +1785,7 @@
     {
       "id": 232,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F232.png?alt=media&token=5ce42b57-d0c1-4ddb-b801-980a636db619",
-      "url": "Enlace del sitio web",
+      "url": "http://www.stockvault.net/",
       "name": "Stockvault",
       "titulo": "Categorized stock photos",
       "category": "Stock Photos"
@@ -1793,7 +1793,7 @@
     {
       "id": 233,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F233.png?alt=media&token=df5311f8-e068-41dd-8313-df46695ebf57",
-      "url": "Enlace del sitio web",
+      "url": "https://placeholder.com/",
       "name": "Placeholder",
       "titulo": "A free image placeholder service for the web. You can specify image size and format",
       "category": "Stock Photos"
@@ -1801,7 +1801,7 @@
     {
       "id": 234,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F234.png?alt=media&token=506bb073-6fcf-46d1-b686-b83d40f25891",
-      "url": "Enlace del sitio web",
+      "url": "https://realisticshots.com/",
       "name": "Realistic Shots",
       "titulo": "Free high-resolution stock photos",
       "category": "Stock Photos"
@@ -1809,7 +1809,7 @@
     {
       "id": 235,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F235.png?alt=media&token=ab0d6eb7-03d7-4f36-b47e-1dfbb43d091d",
-      "url": "Enlace del sitio web",
+      "url": "https://negativespace.co/",
       "name": "Negative Space",
       "titulo": "High-Resolution Free Stock Photos",
       "category": "Stock Photos"
@@ -1817,7 +1817,7 @@
     {
       "id": 236,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F236.png?alt=media&token=1aaf5096-57f1-4f49-b93e-ee636aca2881",
-      "url": "Enlace del sitio web",
+      "url": "https://skitterphoto.com/",
       "name": "SkitterPhoto",
       "titulo": "Free high-resolution photography",
       "category": "Stock Photos"
@@ -1825,7 +1825,7 @@
     {
       "id": 237,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F237.png?alt=media&token=19a332c3-6736-440d-aedc-0d56cc32ba76",
-      "url": "Enlace del sitio web",
+      "url": "https://picography.co/",
       "name": "PicoGraphy",
       "titulo": "Gorgeous, High-Resolution, Free Photos",
       "category": "Stock Photos"
@@ -1833,7 +1833,7 @@
     {
       "id": 239,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F239.png?alt=media&token=416133c7-039d-4601-97f5-48e7a0aaa2f0",
-      "url": "Enlace del sitio web",
+      "url": "https://pxhere.com/",
       "name": "PxHere",
       "titulo": "Free Images & Free stock photos - PxHere",
       "category": "Stock Photos"
@@ -1841,7 +1841,7 @@
     {
       "id": 240,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F240.png?alt=media&token=3707cc5a-b588-4aa6-8098-70c67b126af2",
-      "url": "Enlace del sitio web",
+      "url": "https://piqsels.com/",
       "name": "Piqsels",
       "titulo": "Royalty Free Stock Photos",
       "category": "Stock Photos"
@@ -1850,7 +1850,7 @@
     {
       "id": 241,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F241.png?alt=media&token=d40b7671-e250-4397-8ae5-929fdb71297e",
-      "url": "Enlace del sitio web",
+      "url": "https://www.pexels.com/videos",
       "name": "Pexels",
       "titulo": "Largest library of free to use videos, donated by the community",
       "category": "Stock Videos"
@@ -1858,7 +1858,7 @@
     {
       "id": 242,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F242.png?alt=media&token=ce107e56-164f-4115-8940-866c2433d425",
-      "url": "Enlace del sitio web",
+      "url": "https://www.pixabay.com/videos",
       "name": "Pixabay",
       "titulo": "Large library of free to use videos, donated by the community similar to Pexels",
       "category": "Stock Videos"
@@ -1866,7 +1866,7 @@
     {
       "id": 243,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F243.png?alt=media&token=447e35ed-6395-4449-a7e4-3c7a1708a7f1",
-      "url": "Enlace del sitio web",
+      "url": "https://coverr.co/",
       "name": "Coverr.co",
       "titulo": "Beautiful free stock video footage",
       "category": "Stock Videos"
@@ -1874,7 +1874,7 @@
     {
       "id": 244,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F244.png?alt=media&token=e2b51ecc-b6b1-479b-9500-eeb47f982717",
-      "url": "Enlace del sitio web",
+      "url": "https://www.videezy.com/",
       "name": "Videezy",
       "titulo": "Free HD stock footage & 4K videos",
       "category": "Stock Videos"
@@ -1882,7 +1882,7 @@
     {
       "id": 245,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F245.png?alt=media&token=d806d7bc-c60e-4883-b4eb-bcf2b5a0ab03",
-      "url": "Enlace del sitio web",
+      "url": "https://mixkit.co/",
       "name": "Mix Kit",
       "titulo": "Stock video clips & music",
       "category": "Stock Videos"
@@ -1890,7 +1890,7 @@
     {
       "id": 247,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F247.png?alt=media&token=696d9ca2-c756-4f88-9407-743c8d4884fd",
-      "url": "Enlace del sitio web",
+      "url": "hhttps://www.videvo.net/stock-video-footage/",
       "name": "Videvo",
       "titulo": "Free and premium stock videos",
       "category": "Stock Videos"
@@ -1898,7 +1898,7 @@
     {
       "id": 248,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F248.png?alt=media&token=db711686-57fc-4196-9cf4-78a5bbff7879",
-      "url": "Enlace del sitio web",
+      "url": "http://stock.loopvidz.com/",
       "name": "Loopvidz",
       "titulo": "Free To Use Cinema graphs Created With VIMAGE App",
       "category": "Stock Videos"
@@ -1906,7 +1906,7 @@
     {
       "id": 249,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F249.png?alt=media&token=80504ce1-637f-4e54-a239-986c7f3c7b43",
-      "url": "Enlace del sitio web",
+      "url": "https://www.splitshire.com/",
       "name": "SplitShire",
       "titulo": "Beautiful & exclusive free stock videos & photos",
       "category": "Stock Videos"
@@ -1915,7 +1915,7 @@
       "id": 250,
           "img": "https://firebasestorage.googleapis.com/v0/b/webresource-a7d47.appspot.com/o/images%2F250.png?alt=media&token=b0cd61ba-7bf4-44a1-b379-5c2b87ff8104",
       "url": "Enlace del sitio web",
-      "name": "Free-Stock-Video",
+      "name": "https://free-stock.video/",
       "titulo": "Free Footage Stock Videos",
       "category": "Stock Videos"
     }
