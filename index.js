@@ -1,9 +1,12 @@
 import express from "express";
-import cors from "cors";
 import fs from "fs/promises";
 
 const app = express();
-app.use(cors());
+const PORT = process.env.PORT || 5000; // Usar el puerto proporcionado por el servicio de hosting o 3000 por defecto
+
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
 
 const readData = async () => {
   try {
@@ -21,7 +24,14 @@ app.use('/images', express.static('./images'))
 
 
 // Ruta para obtener un elemento por su id en una sección específica
-
+app.get("/", async (req, res) => {
+  const data = await readData();
+  if (data) {
+    res.json(data);
+  } else {
+    res.status(500).json({ message: "Internal server error" });
+  }
+});
 
 
 
@@ -60,17 +70,5 @@ app.get("/search/:query", async (req, res) => {
 });
 
 // Ruta para obtener todas las secciones
-app.get("/", async (req, res) => {
-  const data = await readData();
-  if (data) {
-    res.json(data);
-  } else {
-    res.status(500).json({ message: "Internal server error" });
-  }
-});
 
-const PORT = process.env.PORT || 5000; // Usar el puerto proporcionado por el servicio de hosting o 3000 por defecto
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
