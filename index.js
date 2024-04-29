@@ -1,12 +1,9 @@
 import express from "express";
+import cors from "cors";
 import fs from "fs/promises";
 
 const app = express();
-const PORT = process.env.PORT || 5000; // Usar el puerto proporcionado por el servicio de hosting o 3000 por defecto
-
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+app.use(cors());
 
 const readData = async () => {
   try {
@@ -72,3 +69,8 @@ app.get("/search/:query", async (req, res) => {
 // Ruta para obtener todas las secciones
 
 
+const PORT = process.env.PORT || 5000; // Usar el puerto proporcionado por el servicio de hosting o 3000 por defecto
+
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
